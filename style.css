@@ -1,0 +1,35 @@
+@page {
+    width: 27mm;
+    height: 27mm;
+}
+
+.screw_info {
+    margin: 1mm;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 5mm;
+}
+
+.bit_info {
+    margin: 1mm;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 5mm;
+}
+
+.screw_img {
+    height: 10mm;
+    margin: 0;
+}
+
+.bit_img {
+    height: 10mm;
+    margin: 0;
+}
+
+.item {
+  width: 100%;
+  height: 90%;
+  text-align: center;
+  align-items: center;
+}
