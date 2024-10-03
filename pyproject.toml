@@ -1,0 +1,23 @@
+[project]
+name = "fastener_label_generator"
+version = "20241003"
+authors = [
+  { name="Franciszek Maroszek", email="fmaroszek@users.noreply.github.com" },
+  { name="Kosma Moczek", email="kosma@kosma.pl" },
+]
+description = "Fastener Label Generator by Hackerspace Wrocław"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "blabel",
+]
+
+[project.scripts]
+fastener-label-generator = "fastener_label_generator.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/HackerspaceWroclaw/fastener_label_generator"
