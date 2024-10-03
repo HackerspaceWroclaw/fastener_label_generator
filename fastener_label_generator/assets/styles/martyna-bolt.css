@@ -47,11 +47,9 @@ img {
 }
 
 .standard {
-    text-align: left;
     float: left;
 }
 
 .material {
-    text-align: right;
     float: right;
 }
