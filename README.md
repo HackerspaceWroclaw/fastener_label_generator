@@ -19,7 +19,7 @@ sudo apt install python3-pipx
 pipx install https://github.com/HackerspaceWroclaw/fastener_label_generator
 
 # Usage: fastener-label-generator filename.pdf template_name style_name field=value ...
-fastener-label-generator label.pdf screw hswro thread=M3 bit=PH2
+fastener-label-generator label.pdf fastener-label-generator test.pdf martyna martyna description="Śruba z łbem sześciokątnym" thread="M3" length="12" standard="DIN 933" material="ocynk" bolt_image="din933.png"
 ```
 
 ## Library usage
