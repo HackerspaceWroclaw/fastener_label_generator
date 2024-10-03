@@ -2,12 +2,6 @@
 
 Label generator for fasteners stored in the [Hackerspace Wrocław](https://www.hswro.org/) workshop.
 
-Based on:
-
-- [blabel](https://github.com/Edinburgh-Genome-Foundry/blabel) for image generation 
-- [FreeCAD Fasteners Workbench](https://github.com/shaise/FreeCAD_FastenersWB/) for fasteners icons
-- [Wikipedia](https://de.wikipedia.org/wiki/Liste_der_Schraubenkopfantriebe) for screwdriver bits icons 
-
 ## Installation
 
 ## Command line usage
@@ -43,3 +37,9 @@ pip install -e ~/fastener_label_generator
 ```
 
 and hack away.
+
+## Credits
+
+- [blabel](https://github.com/Edinburgh-Genome-Foundry/blabel) - image generation
+- [FreeCAD Fasteners Workbench](https://github.com/shaise/FreeCAD_FastenersWB/) - fasteners icons
+- [Wikipedia](https://de.wikipedia.org/wiki/Liste_der_Schraubenkopfantriebe) - screwdriver bits icons
