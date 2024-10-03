@@ -1,0 +1,57 @@
+/* printer settings */
+
+@page {
+    width: 50mm;
+    height: 30mm;
+}
+
+.item {
+    width: 90%;
+    margin-top: 1mm;
+}
+
+/* global settings */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    font-family: Arial;
+    font-weight: medium;
+}
+
+img {
+    image-rendering: pixelated;
+}
+
+/* element styling */
+
+.bolt_image {
+    height: 10mm;
+}
+
+.description {
+    font-size: 3.3mm;
+}
+
+.size {
+    font-size: 8mm;
+    font-weight: bold;
+}
+
+.standard, .material {
+    font-size: 3mm;
+}
+
+.standard {
+    text-align: left;
+    float: left;
+}
+
+.material {
+    text-align: right;
+    float: right;
+}
