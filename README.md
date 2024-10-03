@@ -10,18 +10,15 @@ Based on:
 
 ## Installation
 
-Install like any standard Python utility. `pipx` is recommended for automatic management of venvs:
-
-```
-apt install python3-pipx
-pipx install https://github.com/HackerspaceWroclaw/fastener_label_generator
-```
-
 ## Command line usage
 
-```shell
-# Usage: fastener-label-generator filename.pdf template_name style_name field=value ...
+Install like any standard Python utility. `pipx` is recommended for automatic management of venvs:
 
+```shell
+sudo apt install python3-pipx
+pipx install https://github.com/HackerspaceWroclaw/fastener_label_generator
+
+# Usage: fastener-label-generator filename.pdf template_name style_name field=value ...
 fastener-label-generator label.pdf screw hswro thread=M3 bit=PH2
 ```
 
