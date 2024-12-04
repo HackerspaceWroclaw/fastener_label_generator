@@ -78,7 +78,7 @@ p {
 }
 
 .drive_info {
-    font-family: "Roboto Condensed";
+    font-family: "Plus Jakarta Sans";
     font-weight: 300;
     align: center;
     margin: 0mm;
@@ -87,12 +87,12 @@ p {
     font-size: 6mm;
 }
 .main {
-    margin-top: 0.5mm;
+    margin-top: -0.5mm;
     margin-bottom: 1mm;
     margin-left: 1mm;
     margin-right: 1mm; 
     background-color: white;
-    letter-spacing: normal;
+    letter-spacing: -0.5mm;
 }
 .barcode {
     height: 3mm;
@@ -107,37 +107,37 @@ p {
     margin-right: 1mm;
     line-height: 4mm;
     background-color: white;
-    letter-spacing: normal;
+    letter-spacing: -0.1mm;
 }
 #size {
-    font-family: "Roboto";
+    font-family: "Plus Jakarta Sans";
     font-weight: 400;
     text-align: center;
     font-size: 9mm;
 
 }
 #material {
-    font-family: "Roboto Condensed";
-    font-weight: 400;
+    font-family: "Plus Jakarta Sans";
+    font-weight: normal;
     text-align: left;
-    font-size: 3.8mm;
+    size: 4mm;
 }
 #coating {
-    font-family: "Roboto Condensed";
-    font-weight: 400;
+    font-family: "Plus Jakarta Sans";
+    font-weight: normal;
     text-align: left;
-    font-size: 3.8mm;
+    size: 4mm;
 }
 #strength_class {
-    font-family: "Roboto Condensed";
-    font-weight: 400;
+    font-family: "Plus Jakarta Sans";
+    font-weight: normal;
     text-align: left;
-    font-size: 3.8mm;
+    size: 4mm;
 }
 #norm {
-    font-family: "Roboto Condensed";
-    font-weight: 400;
+    font-family: "Plus Jakarta Sans";
+    font-weight: normal;
     text-align: right;
-    font-size: 3.8mm;
+    size: 4mm;
 }
 

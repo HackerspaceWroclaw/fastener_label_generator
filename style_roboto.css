@@ -118,26 +118,26 @@ p {
 }
 #material {
     font-family: "Roboto Condensed";
-    font-weight: 400;
+    font-weight: 300;
     text-align: left;
-    font-size: 3.8mm;
+    size: 4mm;
 }
 #coating {
     font-family: "Roboto Condensed";
-    font-weight: 400;
+    font-weight: 300;
     text-align: left;
-    font-size: 3.8mm;
+    size: 4mm;
 }
 #strength_class {
     font-family: "Roboto Condensed";
-    font-weight: 400;
+    font-weight: 300;
     text-align: left;
-    font-size: 3.8mm;
+    size: 4mm;
 }
 #norm {
     font-family: "Roboto Condensed";
-    font-weight: 400;
+    font-weight: 300;
     text-align: right;
-    font-size: 3.8mm;
+    size: 4mm;
 }
 
