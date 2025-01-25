@@ -9,7 +9,7 @@ Label generator for fasteners stored in the [Hackerspace Wrocław](https://www.h
 Install like any standard Python utility. `pipx` is recommended for automatic management of venvs:
 
 ```shell
-sudo apt install python3-pipx
+sudo apt install pipx
 pipx install https://github.com/HackerspaceWroclaw/fastener_label_generator
 
 # Usage: fastener-label-generator filename.pdf template_name style_name field=value ...
