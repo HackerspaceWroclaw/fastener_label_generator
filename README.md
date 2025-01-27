@@ -38,6 +38,25 @@ pip install -e ~/fastener_label_generator
 
 and hack away.
 
+## Rendering 
+
+When developing a label, it might be useful to render it down to the printer pixel size and make sure
+all the small features are rendered correctly. E.g. for the Zebra TLP 2824 Plus printer:
+
+```
+convert -density 203 -flatten malpa.pdf malpa.png
+```
+
+## Fonts
+
+This repository does not (as of now) include fonts; you need to install them manually in your system.
+
+## Authors
+
+- Franciszek Maroszek
+- Kosma Moczek
+- Bartłomiej Pytko
+
 ## Credits
 
 - [blabel](https://github.com/Edinburgh-Genome-Foundry/blabel) - image generation
