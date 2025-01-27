@@ -78,8 +78,8 @@ p {
 }
 
 .drive_info {
-    font-family: "Barlow Semi Condensed";
-    font-weight: lighter;
+    font-family: "Roboto Condensed";
+    font-weight: 300;
     align: center;
     margin: 0mm;
     padding: 0mm;
@@ -87,11 +87,18 @@ p {
     font-size: 6mm;
 }
 .main {
-    margin-top: -0.5mm;
+    margin-top: 0.5mm;
     margin-bottom: 1mm;
     margin-left: 1mm;
     margin-right: 1mm; 
     background-color: white;
+    letter-spacing: normal;
+}
+.barcode {
+    height: 3mm;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
 }
 .description {
     margin-top: 1mm;
@@ -100,36 +107,37 @@ p {
     margin-right: 1mm;
     line-height: 4mm;
     background-color: white;
+    letter-spacing: normal;
 }
 #size {
-    font-family: "Barlow";
-    font-weight: normal;
-    text-align: left;
+    font-family: "Roboto";
+    font-weight: 400;
+    text-align: center;
     font-size: 9mm;
 
 }
 #material {
-    font-family: "Barlow Semi Condensed";
-    font-weight: normal;
+    font-family: "Roboto Condensed";
+    font-weight: 400;
     text-align: left;
-    size: 4mm;
+    font-size: 3.8mm;
 }
 #coating {
-    font-family: "Barlow Semi Condensed";
-    font-weight: normal;
+    font-family: "Roboto Condensed";
+    font-weight: 400;
     text-align: left;
-    size: 4mm;
+    font-size: 3.8mm;
 }
 #strength_class {
-    font-family: "Barlow Semi Condensed";
-    font-weight: normal;
+    font-family: "Roboto Condensed";
+    font-weight: 400;
     text-align: left;
-    size: 4mm;
+    font-size: 3.8mm;
 }
 #norm {
-    font-family: "Barlow Semi Condensed";
-    font-weight: normal;
+    font-family: "Roboto Condensed";
+    font-weight: 400;
     text-align: right;
-    size: 4mm;
+    font-size: 3.8mm;
 }
 
