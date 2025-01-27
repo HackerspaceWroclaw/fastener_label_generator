@@ -11,13 +11,24 @@ def main():
 
     # parse command line - ideally we should use click or a similar library
     filename, template_name, style_name, *field_args = args
-    fields = {}
+    # pre-fill the field list - useful for testing
+    fields = dict(thread="M56",
+                  length="986",
+                  screw_img="ISO7380_A.svg",
+                  drive_img="H.svg",
+                  drive_name_and_size="PH2",
+                  id="202131231",
+                  material="Stal nierdzewna A2",
+                  coating="Czerniona",
+                  strength_class="Klasa 12.8",
+                  norms="ISO7810")
+    # unpack fields from command line
     for field_arg in field_args:
         key, _, value = field_arg.partition("=")
         fields[key] = value
 
     # generate and write label file
-    pdf_content = FastenerLabelGenerator.generate_pdf(template_name, style_name, fields)
+    pdf_content = FastenerLabelGenerator.generate_pdf(template_name, style_name, [fields])
     open(filename, "wb").write(pdf_content)
 
 
