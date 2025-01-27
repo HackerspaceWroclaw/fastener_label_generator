@@ -18,6 +18,7 @@ dependencies = [
 
 [project.scripts]
 fastener-label-generator-single = "fastener_label_generator.cli.single:main"
+fastener-label-generator-batch = "fastener_label_generator.cli.batch:main"
 
 [project.urls]
 Homepage = "https://github.com/HackerspaceWroclaw/fastener_label_generator"
