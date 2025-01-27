@@ -1,0 +1,26 @@
+<div id='parent'>
+<div id='drawings'>
+<table>
+	<tr>
+		<td>
+			<img id='screw_image' src='./symbols/screws/{{ screw_img }}'>
+		</td>
+		<td>
+			<img id='drive_image' src='./symbols/bits/{{ drive_img }}'>
+			<p class='drive_info'> {{ drive_name_and_size }} </p>
+		</td>
+	</tr>
+</table>
+</div>
+
+<div id='descriptions'>
+<hr/>
+<div class='main' id='size'> {{ thread }}x{{ length }} </div>
+<hr/>
+<div class='description' id='material'> {{ material }} </div>
+<div class='description' id='coating'> {{ coating }} </div>
+<div class='description' id='strength_class'> {{ strength_class}} </div>
+<hr/>
+<div class='description' id='norm'> {{ norms }} </div>
+</div>
+</div>

@@ -22,7 +22,7 @@ class FastenerLabelGenerator(object):
         )
 
         # FIXME: construct template data
-        record = dict(thread="M3", length="30", screw_img="Fasteners_ISO7045.svg", bit_img="PH.png", bit_name="PH2")
+        record = dict(thread="M56", length="986", screw_img="ISO7380_A.svg", drive_img="H.svg", drive_name_and_size = "PH2", id="202131231", material="Stal nierdzewna A2", coating="Czerniona", strength_class="Klasa 12.8", norms="ISO7810")
         record.update(fields)
 
         # generate label

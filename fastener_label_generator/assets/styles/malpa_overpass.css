@@ -1,0 +1,141 @@
+@page {
+    width: 40mm;
+    height: 60mm;
+    padding: 0mm;
+    margin: 0mm;
+}
+table, tr, td
+{
+    margin: 0;
+    padding: 0;
+    border: 0mm solid black;
+    width:100%;
+
+}
+td {
+    text-align: center;
+    vertical-align: middle;
+    width: 16mm;
+    margin: auto;
+}
+hr {
+    border: 0.1mm dashed black;
+    padding: 0;
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+}
+
+#descriptions
+{
+    position: absolute;
+    bottom:0;
+    left:0;
+    right:0;
+}
+#drawings
+{
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    margin-top:1mm;
+    margin-right:1mm;
+    margin-left: 1mm;
+    margin-bottom: 1mm;
+    padding: 1mm;
+    border: 0mm solid gray;
+    background-color: white;
+    border-radius: 1mm;
+    border-bottom-left-radius: 0mm;
+    border-bottom-right-radius: 0mm;
+}
+#parent
+{
+    position: relative;
+    height: 60mm;
+    width: 40mm;
+    margin: 0mm;
+    padding: 0mm;
+}
+#screw_image {
+    height: 20mm;
+    width: 16mm;
+    padding: 0;
+    margin: auto;
+    display: block;
+}
+#drive_image {
+    padding: 0;
+    margin: auto;
+    width: 12mm;
+    height: 12mm;
+    display: block;
+}
+p {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+.drive_info {
+    font-family: "Overpass";
+    font-weight: light;
+    align: center;
+    margin: 0mm;
+    padding: 0mm;
+    line-height: 6mm;
+    font-size: 6mm;
+}
+.main {
+    margin-top: -0.5mm;
+    margin-bottom: 1mm;
+    margin-left: 1mm;
+    margin-right: 1mm; 
+    background-color: white;
+}
+.barcode {
+    height: 3mm;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+.description {
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+    margin-left: 1mm;
+    margin-right: 1mm;
+    line-height: 4mm;
+    background-color: white;
+}
+#size {
+    font-family: "Overpass";
+    font-weight: 400;
+    text-align: center;
+    font-size: 9mm;
+
+}
+#material {
+    font-family: "Overpass";
+    font-weight: normal;
+    text-align: left;
+    size: 4mm;
+}
+#coating {
+    font-family: "Overpass";
+    font-weight: normal;
+    text-align: left;
+    size: 4mm;
+}
+#strength_class {
+    font-family: "Overpass";
+    font-weight: normal;
+    text-align: left;
+    size: 4mm;
+}
+#norm {
+    font-family: "Overpass";
+    font-weight: normal;
+    text-align: right;
+    size: 4mm;
+}
+
