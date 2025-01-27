@@ -12,8 +12,7 @@ def main():
     # parse command line - ideally we should use click or a similar library
     filename, template_name, style_name, *field_args = args
     # pre-fill the field list - useful for testing
-    fields = dict(thread="M56",
-                  length="986",
+    fields = dict(size="M56x986",
                   screw_img="ISO7380_A.svg",
                   drive_img="H.svg",
                   drive_name_and_size="PH2",

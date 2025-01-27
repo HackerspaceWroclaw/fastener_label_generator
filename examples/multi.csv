@@ -1,3 +1,3 @@
-thread,length,screw_img,drive_img,drive_name_and_size,id,material,coating,strength_class,norms
-M56,986,ISO7380_A.svg,H.svg,PH2,202131231,Stal nierdzewna A2,Czerniona,Klasa 12.8,ISO7810
-M69,123,ISO7380_A.svg,H.svg,PH2,202131231,Gównolit 999.9%,Bielona,Klasa 12.3,DIN2137
+size,screw_img,drive_img,drive_name_and_size,id,material,coating,strength_class,norms
+M56x986,ISO7380_A.svg,H.svg,PH2,202131231,Stal nierdzewna A2,Czerniona,Klasa 12.8,ISO7810
+M69x123,ISO7380_A.svg,H.svg,PH2,202131231,Gównolit 999.9%,Bielona,Klasa 12.3,DIN2137
