@@ -2,7 +2,6 @@
     width: 40mm;
     height: 60mm;
     padding: 0mm;
-    margin: 0mm;
 }
 table, tr, td
 {
@@ -19,7 +18,7 @@ td {
     margin: auto;
 }
 hr {
-    border: 0.1mm dashed black;
+    border: 0.25mm dashed black;
     padding: 0;
     margin-top: 1mm;
     margin-bottom: 1mm;
@@ -28,7 +27,7 @@ hr {
 #descriptions
 {
     position: absolute;
-    bottom:0;
+    bottom: 2mm;
     left:0;
     right:0;
 }
@@ -38,10 +37,10 @@ hr {
     top:0;
     left:0;
     right:0;
-    margin-top:1mm;
+    margin-top:2mm;
     margin-right:1mm;
     margin-left: 1mm;
-    margin-bottom: 1mm;
+    margin-bottom: 2mm;
     padding: 1mm;
     border: 0mm solid gray;
     background-color: white;
@@ -79,7 +78,7 @@ p {
 
 .drive_info {
     font-family: "Barlow Semi Condensed";
-    font-weight: lighter;
+    font-weight: 500;
     align: center;
     margin: 0mm;
     padding: 0mm;
@@ -87,48 +86,45 @@ p {
     font-size: 6mm;
 }
 .main {
-    margin-top: -0.5mm;
-    margin-bottom: 1mm;
-    margin-left: 1mm;
-    margin-right: 1mm; 
-    background-color: white;
+    margin-top: -2mm;
+    margin-bottom: -1mm;
+    margin-left: 2mm;
+    margin-right: 2mm;
 }
 .description {
     margin-top: 1mm;
     margin-bottom: 1mm;
-    margin-left: 1mm;
-    margin-right: 1mm;
-    line-height: 4mm;
-    background-color: white;
+    margin-left: 2mm;
+    margin-right: 2mm;
+    line-height: 3.5mm;
 }
 #size {
     font-family: "Barlow";
-    font-weight: normal;
+    font-weight: 500;
     text-align: left;
     font-size: 9mm;
-
 }
 #material {
     font-family: "Barlow Semi Condensed";
-    font-weight: normal;
+    font-weight: 500;
     text-align: left;
     size: 4mm;
 }
 #coating {
     font-family: "Barlow Semi Condensed";
-    font-weight: normal;
+    font-weight: 500;
     text-align: left;
     size: 4mm;
 }
 #strength_class {
     font-family: "Barlow Semi Condensed";
-    font-weight: normal;
+    font-weight: 500;
     text-align: left;
     size: 4mm;
 }
 #norm {
     font-family: "Barlow Semi Condensed";
-    font-weight: normal;
+    font-weight: 500;
     text-align: right;
     size: 4mm;
 }
