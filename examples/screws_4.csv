@@ -1,0 +1,67 @@
+Container Label,Screw Type Description,Diameter (mm),Length (mm),DIN Norm,ISO Norm,Type,Head Drive Type,size,norms,drive_name_and_size,screw_img
+M3x30 czarne stożek imbus H2,Black Countersunk Head Socket Cap Screw,3,30,7991,10642,Screw,Hex,M3x30,"ISO10642, DIN7991",H2,ISO10642.svg
+M3x20 czarne stożek imbus H2,Black Countersunk Head Socket Cap Screw,3,20,7991,10642,Screw,Hex,M3x20,"ISO10642, DIN7991",H2,ISO10642.svg
+M3x8 nierdzewne kulisty imbus H2,Stainless Steel Button Head Socket Cap Screw,3,8,7380,7380,Screw,Hex,M3x8,"ISO7380, DIN7380",H2,ISO7380.svg
+M3x8 czarne stożek imbus H2,Black Countersunk Head Socket Cap Screw,3,8,7991,10642,Screw,Hex,M3x8,"ISO10642, DIN7991",H2,ISO10642.svg
+M4 srebrne podkładki,Silver Washers,4,N/A,125,7089,Washer,,M4,"ISO7089, DIN125",,ISO7089.svg
+M4x14 srebrne stożek imbus H2.5,Silver Countersunk Head Socket Cap Screw,4,14,7991,10642,Screw,Hex,M4x14,"ISO10642, DIN7991",H2.5,ISO10642.svg
+M4x10 nierdzewne stożek imbus H2.5,Stainless Steel Countersunk Head Socket Cap Screw,4,10,7991,10642,Screw,Hex,M4x10,"ISO10642, DIN7991",H2.5,ISO10642.svg
+M4x16 czarne stożek imbus H2.5,Black Countersunk Head Socket Cap Screw,4,16,7991,10642,Screw,Hex,M4x16,"ISO10642, DIN7991",H2.5,ISO10642.svg
+M4x16 nierdzewne stożek imbus H2.5,Stainless Steel Countersunk Head Socket Cap Screw,4,16,7991,10642,Screw,Hex,M4x16,"ISO10642, DIN7991",H2.5,ISO10642.svg
+M4 srebrne nakrętki 6-kątne,Silver Hex Nuts,4,N/A,934,4032,Nut,Hex,M4,"ISO4032, DIN934",7mm,ISO4032.svg
+M4x14 czarne stożek imbus H2.5,Black Countersunk Head Socket Cap Screw,4,14,7991,10642,Screw,Hex,M4x14,"ISO10642, DIN7991",H2.5,ISO10642.svg
+M4x12 czarne stożek imbus H2.5,Black Countersunk Head Socket Cap Screw,4,12,7991,10642,Screw,Hex,M4x12,"ISO10642, DIN7991",H2.5,ISO10642.svg
+M4x12 czarne walcowy imbus H3,Black Cylindrical (Socket Head Cap) Screw,4,12,912,4762,Screw,Hex,M4x12,"ISO4762, DIN912",H3,ISO4762.svg
+M4x16 nierdzewne walcowy imbus H3,Stainless Steel Cylindrical (Socket Head Cap) Screw,4,16,912,4762,Screw,Hex,M4x16,"ISO4762, DIN912",H3,ISO4762.svg
+M4x6 stalowe kołki hartowane,Hardened Steel Pins,4,6,5140,6792,Other,,M4x6,"ISO6792, DIN5140",,ISO6792.svg
+M4x20 nierdzewne stożek imbus H2.5,Stainless Steel Countersunk Head Socket Cap Screw,4,20,7991,10642,Screw,Hex,M4x20,"ISO10642, DIN7991",H2.5,ISO10642.svg
+4x31 stalowe kołki hartowane,Hardened Steel Dowel,4,31,6325,8734,Other,,M4x31,"ISO8734, DIN6325",,ISO8734.svg
+M4 srebrne nakrętki kwadrat niskie,Silver Square Nuts Thin-Profile,4,N/A,562,,Nut,,M4,"ISO, DIN562",7mm,ISO.svg
+M4x12 srebrne stożek imbus H2.5,Silver Countersunk Head Socket Cap Screw,4,12,7991,10642,Screw,Hex,M4x12,"ISO10642, DIN7991",H2.5,ISO10642.svg
+M4x16 nierdzewne kulisty imbus H2.5,Stainless Steel Button Head Socket Cap Screw,4,16,7380,7380,Screw,Hex,M4x16,"ISO7380, DIN7380",H2.5,ISO7380.svg
+M4x25 nierdzewne walcowy imbus H3,Stainless Steel Cylindrical (Socket Head Cap) Screw,4,25,912,4762,Screw,Hex,M4x25,"ISO4762, DIN912",H3,ISO4762.svg
+M4x8 stalowe wkładki gwintowane,Hardened Steel Threaded Inserts,4,8,,,Other,,M4x8,"ISO, DIN",,ISO.svg
+M4x10 czarne stożek imbus H2.5,Black Countersunk Head Socket Cap Screw,4,10,7991,10642,Screw,Hex,M4x10,"ISO10642, DIN7991",H2.5,ISO10642.svg
+M5x16 czarne walcowy imbus H4,Black Cylindrical (Socket Head Cap) Screw,5,16,912,4762,Screw,Hex,M5x16,"ISO4762, DIN912",H4,ISO4762.svg
+M5x8 ocynk walcowy niski imbus H4,Zinc-Plated Low Cylindrical (Socket Head Cap) Screw,5,8,912,4762,Screw,Hex,M5x8,"ISO4762, DIN912",H4,ISO4762.svg
+M5x12 srebrne kołnierz imbus H3,Silver Flanged Socket Cap Screw,5,12,912,4762,Screw,Hex,M5x12,"ISO4762, DIN912",H3,ISO4762.svg
+M5x16 srebrne kołnierz imbus H3,Silver Flanged Socket Cap Screw,5,16,912,4762,Screw,Hex,M5x16,"ISO4762, DIN912",H3,ISO4762.svg
+M5x10 nierdzewne stożek imbus H3,Stainless Steel Countersunk Head Socket Cap Screw,5,10,7991,10642,Screw,Hex,M5x10,"ISO10642, DIN7991",H3,ISO10642.svg
+M5x16 nierdzewne walcowy imbus H4,Stainless Steel Cylindrical (Socket Head Cap) Screw,5,16,912,4762,Screw,Hex,M5x16,"ISO4762, DIN912",H4,ISO4762.svg
+M5x25 nierdzewne walec imbus H4,Stainless Steel Cylindrical (Socket Head Cap) Screw,5,25,912,4762,Screw,Hex,M5x25,"ISO4762, DIN912",H4,ISO4762.svg
+M5x30 srebrne walcowy imbus H4,Silver Cylindrical (Socket Head Cap) Screw,5,30,912,4762,Screw,Hex,M5x30,"ISO4762, DIN912",H4,ISO4762.svg
+M5x20 srebrne stożek imbus H3,Silver Countersunk Head Socket Cap Screw,5,20,7991,10642,Screw,Hex,M5x20,"ISO10642, DIN7991",H3,ISO10642.svg
+M5 srebrne nakrętki 6-kątne,Silver Hex Nuts,5,N/A,934,4032,Nut,Hex,M5,"ISO4032, DIN934",8mm,ISO4032.svg
+M5x8 czarne stożek imbus H3,Black Countersunk Head Socket Cap Screw,5,8,7991,10642,Screw,Hex,M5x8,"ISO10642, DIN7991",H3,ISO10642.svg
+M5x6 srebrne stożek imbus H3,Silver Countersunk Head Socket Cap Screw,5,6,7991,10642,Screw,Hex,M5x6,"ISO10642, DIN7991",H3,ISO10642.svg
+M5x16 czarne stożek imbus H3,Black Countersunk Head Socket Cap Screw,5,16,7991,10642,Screw,Hex,M5x16,"ISO10642, DIN7991",H3,ISO10642.svg
+M5x10 czarne stożek imbus H3,Black Countersunk Head Socket Cap Screw,5,10,7991,10642,Screw,Hex,M5x10,"ISO10642, DIN7991",H3,ISO10642.svg
+M3x14 kołnierz ocynk,Zinc-Plated Flanged Socket Cap Screw,3,14,,,Screw,Hex,M3x14,"ISO, DIN",,ISO.svg
+M5x6 srebrne kołnierz imbus H3,Silver Flanged Socket Cap Screw,5,6,,,Screw,Hex,M5x6,"ISO, DIN",H3,ISO.svg
+M5x8 srebrne walcowy imbus H4,Silver Cylindrical (Socket Head Cap) Screw,5,8,912,4762,Screw,Hex,M5x8,"ISO4762, DIN912",H4,ISO4762.svg
+M5x10 czarne walcowy imbus H4,Black Cylindrical (Socket Head Cap) Screw,5,10,912,4762,Screw,Hex,M5x10,"ISO4762, DIN912",H4,ISO4762.svg
+M5x8 srebrne nakrętki ericson imbus H3,Silver Ericson Hex Nut,5,8,,,Nut,,M5x8,"ISO, DIN",H3,ISO.svg
+M5x12 srebrne stożkowy imbus H3,Silver Countersunk Socket Cap Screw,5,12,7991,10642,Screw,Hex,M5x12,"ISO10642, DIN7991",H3,ISO10642.svg
+M5 srebrne nakrętki kwadrat,Silver Square Nuts,5,N/A,562,,Nut,,M5,"ISO, DIN562",8mm,ISO.svg
+M5 srebrne nitonakrętki,Silver Rivet Nuts,5,N/A,,,Nut,,M5,"ISO, DIN",,ISO.svg
+M5x20 czarne stożek imbus H3,Black Countersunk Head Socket Cap Screw,5,20,7991,10642,Screw,Hex,M5x20,"ISO10642, DIN7991",H3,ISO10642.svg
+M5x8 czarne walcowy imbus H4,Black Cylindrical (Socket Head Cap) Screw,5,8,912,4762,Screw,Hex,M5x8,"ISO4762, DIN912",H4,ISO4762.svg
+M5 srebrne wkładki gwintowane,Silver Threaded Inserts,5,N/A,7243,7243,Other,,M5,"ISO7243, DIN7243",,ISO7243.svg
+M5x36 stalowe kołki hartowane,Hardened Steel Pins,5,36,6325,8734,Other,,M5x36,"ISO8734, DIN6325",,ISO8734.svg
+M5x25 szare walcowy imbus H4,Gray Cylindrical (Socket Head Cap) Screw,5,25,912,4762,Screw,Hex,M5x25,"ISO4762, DIN912",H4,ISO4762.svg
+M5 srebrne podkładki M5x6,Silver Washers,5,6,125,7089,Washer,,M5x6,"ISO7089, DIN125",M5x6,ISO7089.svg
+M5x6 czarna kulisty imbus,Black Button Head Socket Cap Screw,5,6,7380,7380,Screw,Hex,M5x6,"ISO7380, DIN7380",H?,ISO7380.svg
+M5x6 czarne walcowy imbus,Black Cylindrical (Socket Head Cap) Screw,5,6,912,4762,Screw,Hex,M5x6,"ISO4762, DIN912",H?,ISO4762.svg
+M6 srebrne wkładki gwintowane,Silver Threaded Inserts,6,N/A,,,Other,,M6,"ISO, DIN",M?,ISO.svg
+M6x20 nierdzewne stożek imbus H4,Stainless Steel Countersunk Head Socket Cap Screw,6,20,7991,10642,Screw,Hex,M6x20,"ISO10642, DIN7991",H4,ISO10642.svg
+M5x10 srebrne ericson imbus H5,Silver Ericson Hex Nut,5,10,,,Nut,,M5x10,"ISO, DIN",H5,ISO.svg
+M6x35 srebrne stożek imbus H4,Silver Countersunk Head Socket Cap Screw,6,35,7991,10642,Screw,Hex,M6x35,"ISO10642, DIN7991",H4,ISO10642.svg
+M6x14 stalowe kulisty imbus,Hardened Steel Button Head Socket Cap Screw,6,14,7380,7380,Screw,Hex,M6x14,"ISO7380, DIN7380",H?,ISO7380.svg
+M6x12 nierdzewne stożek imbus H4,Stainless Steel Countersunk Head Socket Cap Screw,6,12,7991,10642,Screw,Hex,M6x12,"ISO10642, DIN7991",H4,ISO10642.svg
+M6 srebrne nakrętki 6-kątne,Silver Hex Nuts,6,N/A,934,4032,Nut,Hex,M6,"ISO4032, DIN934",10mm,ISO4032.svg
+M6x36 stalowe kołki hartowane,Hardened Steel Pins,6,36,6325,8734,Other,,M6x36,"ISO8734, DIN6325",,ISO8734.svg
+M6 srebrne podkładki,Silver Washers,6,N/A,125,7089,Washer,,M6,"ISO7089, DIN125",,ISO7089.svg
+M6 czarne podkładki,Black Washers,6,N/A,125,7089,Washer,,M6,"ISO7089, DIN125",,ISO7089.svg
+M6x14 nierdzewne stożek imbus H4,Stainless Steel Countersunk Head Socket Cap Screw,6,14,7991,10642,Screw,Hex,M6x14,"ISO10642, DIN7991",H4,ISO10642.svg
+M6x25 srebrne stożek imbus H4,Silver Countersunk Head Socket Cap Screw,6,25,7991,10642,Screw,Hex,M6x25,"ISO10642, DIN7991",H4,ISO10642.svg
+M8x12 czarne dociskowe imbus H4,Hexagon Socket Set Screws with Flat Point,8,12,913,4026,Screw,Hex,M8x12,"ISO4026, DIN913",H4,ISO4026.svg
