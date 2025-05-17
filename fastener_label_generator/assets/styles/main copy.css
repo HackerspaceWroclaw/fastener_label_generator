@@ -1,0 +1,145 @@
+@page {
+    width: 40mm;
+    height: 60mm;
+    padding: 0mm;
+    margin-top: 2mm;
+    margin-bottom: 2mm;
+}
+
+#parent {
+    position: relative;
+    width: 40mm;
+    height: 58mm;
+    margin: auto;
+    padding: 0mm;
+}
+
+table, tr, td {
+    margin: 0;
+    padding: 0;
+    border: 0mm solid black;
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+/* Set fixed row height to keep borders and cells stable */
+tr {
+    height: 24mm;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+    width: 16mm;
+    height: auto;
+    margin: auto;
+    overflow: hidden;
+    white-space: normal;
+    word-wrap: break-word;
+}
+
+/* Ensure the drive image and its label are stacked vertically and centered */
+table tr td:nth-child(2) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+hr {
+    border: 0.25mm dashed black;
+    padding: 0;
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+}
+
+#descriptions {
+    position: absolute;
+    bottom: 2mm;
+    left: 0;
+    right: 0;
+}
+
+#drawings {
+    position: absolute;
+    top: 0mm;
+    left: 1mm;
+    right: 1mm;
+    bottom: 8mm;
+    padding: 1mm;
+    border: 0mm solid gray;
+    background-color: white;
+    border-radius: 1mm;
+}
+
+#screw_image {
+    height: 20mm;
+    width: 16mm;
+    padding: 0;
+    margin: auto;
+    display: block;
+}
+
+#drive_image {
+    padding: 0;
+    margin: auto;
+    width: 12mm;
+    height: 12mm;
+    display: block;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+.drive_info {
+    font-family: "Barlow Semi Condensed";
+    font-weight: 500;
+    text-align: center;
+    margin: 0mm;
+    padding: 0mm;
+    line-height: 5mm;
+    font-size: 5mm;
+    max-width: 100%;
+    word-wrap: break-word;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    width: 100%;
+}
+
+.main {
+    margin-top: -2mm;
+    margin-bottom: -1mm;
+    margin-left: 2mm;
+    margin-right: 2mm;
+}
+
+.description {
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+    margin-left: 2mm;
+    margin-right: 2mm;
+    line-height: 3.5mm;
+}
+
+#size {
+    font-family: "Barlow";
+    font-weight: 500;
+    text-align: left;
+    font-size: 9mm;
+}
+
+#material, #coating, #strength_class, #norm {
+    font-family: "Barlow Semi Condensed";
+    font-weight: 500;
+    text-align: left;
+    font-size: 4mm;
+}
+
+#norm {
+    text-align: right;
+}

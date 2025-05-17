@@ -1,0 +1,28 @@
+<div id="parent">
+    <table id="sticker_table">
+        <tr class="row1">
+            <td>
+                <img id="screw_image" src="screws/{{ screw_image }}" alt="Screw">
+            </td>
+            <td>
+                <img id="drive_image" src="bits/{{ drive_image }}" alt="">
+                <p class="drive_info">{{ drive_name_and_size }}</p>
+            </td>
+        </tr>
+        <tr class="row2">
+            <td colspan="2" id="size">{{ size }}</td>
+        </tr>
+        <tr class="row3">
+            <td colspan="2" id="material">{{ material }}</td>
+        </tr>
+        <tr class="row4">
+            <td colspan="2" id="coating">{{ coating }}</td>
+        </tr>
+        <tr class="row5">
+            <td colspan="2" id="strength_class">{{ strength_class }}</td>
+        </tr>
+        <tr class="row6">
+            <td colspan="2" id="norm">{{ norms }}</td>
+        </tr>
+    </table>
+</div>
