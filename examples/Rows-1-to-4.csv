@@ -1,0 +1,61 @@
+place_ID,cell_ID,rząd,poz,fastener_name,screw_image,drive_image,drive_name_and_size,size,material,coating,strength_class,norms,Usage status,photo_GoogleDrive,notatki
+A101,101,1,1,Wkręt stożkowy,DIN7997.svg,PZ.svg,PZ2,5x85,stal,ocynkowana,,DIN7997,Not used,5x85-din7997,półgwint
+A101,102,1,2,Śruba walcowa,DIN912.svg,Hex_Socket.svg,H3,M4x35,stal,ocynkowana,8.8,DIN912,Used,M4x35-din912,ISO4762
+A101,103,1,3,Śruba walcowa,DIN912.svg,Hex_Socket.svg,H4,M5x40,stal,ocynkowana,8.8,DIN912,Not used,M5x40-din912,ISO4762
+A101,104,1,4,Wkręt stożkowy,DIN7997.svg,PZ.svg,PZ2,4x16,stal,ocynkowana,,DIN7997,Not used,4x16-din7997,
+A101,105,1,5,Śruba stożkowa,DIN963.svg,Slotted.svg,Slot,M5x60,stal,ocynkowana,4.8,DIN963,Not used,M5x60-din963,ISO2009
+A101,106,1,6,Wkręt stożkowy,DIN7997.svg,PZ.svg,PZ3,6x50,stal,ocynkowana,,DIN7997,Not used,6x50-din7997,
+A101,107,1,7,Wkręt stożkowy,DIN7997.svg,PZ.svg,PZ2,5x20,stal,ocynkowana,,DIN7997,Used,5x20-din7997,
+A101,108,1,8,Wkręt stożkowy,DIN7997.svg,PZ.svg,PZ2,4x60,stal,ocynkowana,,DIN7997,Used,4x60-din7997,
+A101,109,1,9,Wkręt stożkowy,Wurth_Assy.svg,Torx.svg,T20,5x70,stal,nierdzewna,,Würth,Not used,5x70-wurthAssy,stal nierdzewna A2K
+A101,110,1,10,Haczyk otwarty,haczyk_otwarty.svg,,,fi13x47,stal,ocynkowana,,Eurobolt,Not used,haczyk-otwarty,oczko fi 13
+A101,111,1,11,Kołek drewniany,kolek_drewn.svg,hammer.svg,,8x35,drewno,,,,Used,8x35-kolek-drewn,
+A101,112,1,12,Wkręt walcowy soczewkowy,DIN7981.svg,PZ.svg,PZ2,4.2x25,stal,ocynkowana,,DIN7981,Not used,4.5x25-wkret-soczewkowy,blachowkręt
+A101,113,1,13,Wkręt stożkowy,DIN7997.svg,PZ.svg,PZ3,6x40,stal,ocynkowana,,DIN7997,Not used,6x40-din7997,
+A101,114,1,14,Wkręt stożkowy,DIN7504P.svg,PH.svg,PH2,3.9x16,stal,ocynkowana,,DIN7504P,Not used,4x16-wkret-blacha,samowiercący; do blachy
+A101,115,1,15,Wkręt stożkowy,DIN7997.svg,PZ.svg,PZ2,5x40,stal,ocynkowana,,DIN7997,Not used,5x40-din7997,półgwint
+A101,116,1,16,Wkręt stożkowy,DIN7997.svg,PZ.svg,PZ2,3.5x25,stal,ocynkowana,,DIN7997,Used,3.5x25-din7997,
+A101,201,2,1,Wkręt stożkowy,DIN7997.svg,PZ.svg,PZ1,3x16,stal,ocynkowana,,DIN7997,Used,3x16-din7997,
+A101,202,2,2,Wkręt stożkowy,DIN7997.svg,PZ.svg,PZ2,4.5x16,stal,ocynkowana,,DIN7997,Used,4.5x16-din7997,
+A101,203,2,3,Śruba kulista,DIN7985.svg,PH_Slotted.svg,"PH2,SL",M4x50,stal,ocynkowana,,DIN7985,Used,M4x50-PH-Slot,półgwint (warto odnieść SL/PH gwinty do typowej kategorii PH)
+A101,204,2,4,Śruba kulista,DIN7985.svg,PH.svg,PH2,M4x70,stal,ocynkowana,,DIN7985,Used,M4x70-PH-kulista,
+A101,205,2,5,Śruba kulista,DIN7985.svg,PH.svg,PH2,M4x60,stal,nierdzewna,,DIN7985,Used,M4x60-PH-kulista,
+A101,207,2,7,Podkładka poszerzana,ISO7093.svg,,,d5-15,stal,ocynkowana,,ISO7093,Not used,podkl-15-5,
+A101,208,2,8,Wkręt sześciokątny,DIN571.svg,Hex_External.svg,WAF8,5x60,stal,ocynkowana,,DIN571,Used,5x60-hex,półgwint
+A101,209,2,9,Wkręt stożkowy,DIN7997.svg,PZ.svg,PZ3,6x80,stal,ocynkowana,,DIN7997,Not used,6x80-din7997,półgwint
+A101,210,2,10,Haczyk kątowy,haczyk_prosty.svg,,,15x40,stal,ocynkowana,,Eurobolt,Used,Haczyk-prosty,
+A101,212,2,12,Wkręt stożkowy,DIN7504P.svg,PH.svg,PH2,4.8x65,stal,nierdzewna A2,,DIN7504P,Not used,4.8x65-din7504p,"samowiercący; do blachy; półgwint; sprawdzić rozmiar (3.5, 3.9, 4.2…)"
+A101,213,2,13,Wkręt stożkowy,DIN7504P.svg,PH.svg,PH2,4.8x65,stal,nierdzewna A2,,DIN7504P,Not used,4.8x65-din7504p,duplicate poz.128
+A101,214,2,14,Wkręt stożkowy,DIN7997.svg,PZ.svg,PZ2,3.5x20,stal,ocynkowana,,DIN7997,Used,3.5x20-din7997,
+A101,215,2,15,Szekla,Szekla.svg,,,fi11,stal,ocynkowana,,DIN82101A,Used,szekla,
+A101,216,2,16,Nakrętka motylkowa,DIN314.svg,,,M5,stal,ocynkowana,,DIN314,Not used,M5-motyl,
+A101,301,3,1,Nakrętka sześciokątna,DIN934.svg,Hex_External.svg,WAF5.5,M3,stal,ocynkowana,8.8,DIN934,Used,M3-nakretka,ISO4032
+A101,302,3,2,Śruba kulista,ISO7380-1.svg,Hex_Socket.svg,H2,M3x8,stal,nierdzewna,,ISO7380-1,Used,M3x8-iso7380,PUSTY
+A101,303,3,3,Śruba stożkowa,ISO10642.svg,Hex_Socket.svg,H2,M3x8,stal,oksydowana,,ISO10642,Used,M3x8-iso10642,
+A101,304,3,4,Śruba stożkowa,ISO10642.svg,Hex_Socket.svg,H2,M3x20,stal,oksydowana,,ISO10642,Used,M3x20-iso10642,PUSTY
+A101,305,3,5,Śruba stożkowa,ISO10642.svg,Hex_Socket.svg,H2,M3x30,stal,oksydowana,,ISO10642,Not used,M3x30-iso10642,półgwint
+A101,306,3,6,Wkręt stożkowy,DIN7504P.svg,PH.svg,PH2,3.5x35,stal,fosfatowana,,DIN7504P,Not used,3.5x35-din7504p,"samowiercący; ISO15482; sprawdzić rozmiar (3.5, 3.9)"
+A101,308,3,8,Podkładka sprężynująca,DIN127.svg,,,d6-11,stal,ocynkowana,,DIN127,Used,podkl-sp-d6-11,
+A101,309,3,9,Podkładka blacharska,DIN9240.svg,,,d4-20,stal,ocynkowana,,DIN9240,Used,podkl-karos-d4-20,ENG: body washer
+A101,310,3,10,Podkładka blacharska,DIN9240.svg,,,d5-25,stal,ocynkowana,,DIN9240,Used,podkl-karos-d5-25,ENG: body washer
+A101,311,3,11,Podkładka poszerzana,ISO7093.svg,,,d4-12,stal,ocynkowana,,ISO7093,Used,podkl-d4-12,
+A101,312,3,12,Podkładka poszerzana,DIN126.svg,,,d5-12,stal,ocynkowana,,DIN126,Not used,podkl-d5-12,ISO7091; OD 12 mm nie zgodnie ze standardami; dolączyć do d5-10 ?
+A101,313,3,13,Podkładka,DIN126.svg,,,d5-10,stal,ocynkowana,,DIN126,Used,podkl-d5-10,ISO7091
+A101,314,3,14,Nakrętka sześciokątna,DIN934.svg,Hex_External.svg,WAF13,M8,stal,ocynkowana,8.8,DIN934,Not used,M8-nakretka,ISO4032; mieszanka zwykłych i samohamownych
+A101,315,3,15,Nakrętka pazurkowa,nakr_pazurkowa.svg,hammer.svg,,M5,stal,ocynkowana,,Eurobolt,Not used,M5-nakr-pazurkowa,nakrętka kłowa
+A101,316,3,16,Nakrętka motylkowa,DIN314.svg,,,M6,stal,ocynkowana,,DIN314,Used,M6-motyl,w zestawie również śruba motylkowa M6 DIN316
+A101,401,4,1,Śruba stożkowa,ISO10642.svg,Hex_Socket.svg,H2.5,M4x10,stal,oksydowana,,ISO10642,Not used,M4x10-iso10642,
+A101,402,4,2,Podkładka,DIN126.svg,,,d4-9,stal,ocynkowana,,DIN126,Used,podkl-d4-9,mieszanka ocynkowanaowanych i nierdzewnych
+A101,403,4,3,Śruba stożkowa,ISO10642.svg,Hex_Socket.svg,H2.5,M4x10,stal,nierdzewna,,ISO10642,Used,M4x10-iso10642-A2,
+A101,404,4,4,Śruba stożkowa,ISO10642.svg,Hex_Socket.svg,H2.5,M4x16,stal,oksydowana,,ISO10642,Used,M4x16-iso10642,
+A101,405,4,5,Śruba stożkowa,ISO10642.svg,Hex_Socket.svg,H2.5,M4x16,stal,nierdzewna,,ISO10642,Not used,M4x16-iso10642-A2,
+A101,406,4,6,Śruba kulista,ISO7380-1.svg,Hex_Socket.svg,H2.5,M4x16,stal,nierdzewna,,ISO7380-1,Used,M4x16-iso7380-1,
+A101,407,4,7,Śruba stożkowa,ISO10642.svg,Hex_Socket.svg,H2.5,M4x14,stal,oksydowana,,ISO10642,Used,M4x14-iso10642,
+A101,408,4,8,Śruba stożkowa,ISO10642.svg,Hex_Socket.svg,H2.5,M4x12,stal,oksydowana,,ISO10642,Used,M4x12-iso10642,
+A101,409,4,9,Śruba walcowa,DIN912.svg,Hex_Socket.svg,H3,M4x12,stal,oksydowana,,DIN912,Used,M4x12-din912,ISO4762
+A101,411,4,11,Śruba stożkowa,ISO10642.svg,Hex_Socket.svg,H2.5,M4x14,stal,ocynkowana,,ISO10642,Not used,M4x14-iso10642-cynk,może połączyć z tymi oksydowanymi?
+A101,412,4,12,Śruba stożkowa,DIN965.svg,PH.svg,PH2,M5x16,stal,ocynkowana,,DIN965,Not used,M5x16-din965,ISO7046
+A101,413,4,13,Śruba stożkowa,DIN965.svg,PZ.svg,PZ2,M5x10,stal,ocynkowana,,DIN965,Not used,M5x10-din965,ISO7046
+A101,414,4,14,Śruba sześciokątna,DIN933.svg,Hex_External.svg,WAF10,M6x16,stal,ocynkowana,5.8,DIN933,Not used,M6x16-din933,ISO4017
+A101,415,4,15,Nakrętka sześciokątna,DIN934.svg,Hex_External.svg,WAF10,M6,stal,ocynkowana,8.8,DIN934,Used,M6-nakretka,ISO4032
+A101,416,4,16,Śruba walcowa,DIN912.svg,Hex_Socket.svg,H4,M5x25,stal,oksydowana,10.9,DIN912,Used,M5x25-din912,"ISO4762; szara, ale nie piaskowana"

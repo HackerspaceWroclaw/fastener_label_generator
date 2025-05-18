@@ -27,6 +27,11 @@ pdf_content = FastenerLabelGenerator.generate_pdf("franek", "franek", [{"thread"
 open("label.pdf", "wb").write(pdf_content)
 ```
 
+## GUI usage
+
+In order to simplify single label generation you can use dedicated GUI python script `Fastener_Label_GUI.py`, initially developed and tested on macOS.
+Make sure you have installed libraries in your `venv` like `blabel`, `weasyprint`, `tkinter`.
+
 ## Development
 
 Install the library in Editable mode:
