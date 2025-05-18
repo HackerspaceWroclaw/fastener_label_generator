@@ -163,3 +163,6 @@ cython_debug/
 
 # Avoid accidentally adding generated labels.
 *.pdf
+
+# Cruft
+.DS_Store
